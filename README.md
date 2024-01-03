@@ -14,11 +14,14 @@ Apparant Power - addition of Active and Reactive Power
 Power Factor - Relation between Active and reactive power , PF=1 means reactive power consumption is less and Active power is equal to apparent power
 
 # Step No 03 : Data PreProcessing
-Data Cleaning
-Data Wrangling
-Featurs Selection
-Data Visualisation
+Data Cleaning : Selected only avg values from the dataset which is related to the powwr factor 
+Data Wrangling : Not required 
+Featurs Selection :  selected those fields which are importants
+Data Visualisation : visualize the data and understand its currents, power, reactive, apparant, power factor and voltage relationship
 
 # Step No 04 : Exploratory Data Analysis
+Observed the trends of the data, from this analysis focusing on the power factors and its relations with other parameters 
 
-# Step No 5 and 6 : Modelling and Evolution
+# Step No 5 and 6 : Modelling and Evolution : 
+Implemented Simple linear regression and its Regularization techniques and evaluated each model accuracy. Optimize the model with hyperparameter tunning and select best tunning factor and learning rate of the model.
+
