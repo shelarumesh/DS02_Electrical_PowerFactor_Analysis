@@ -9,14 +9,20 @@ From the Active, Apparant and Reactive Power we try to calculate Power Factor
 
 # Step No 02 : Undurstanding the Data
 Active Power - This is the actual power require to the system work. base on this power most of the electrical equipments are working.
+
 Reactive Power - The role of this power and importance of this power is very less as compare to Active power.
+
 Apparant Power - addition of Active and Reactive Power
+
 Power Factor - Relation between Active and reactive power , PF=1 means reactive power consumption is less and Active power is equal to apparent power
 
 # Step No 03 : Data PreProcessing
 Data Cleaning : Selected only avg values from the dataset which is related to the powwr factor 
+
 Data Wrangling : Not required 
+
 Featurs Selection :  selected those fields which are importants
+
 Data Visualisation : visualize the data and understand its currents, power, reactive, apparant, power factor and voltage relationship
 
 # Step No 04 : Exploratory Data Analysis
